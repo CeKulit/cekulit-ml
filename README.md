@@ -35,12 +35,12 @@ According to WHO data, over 900 million people globally are impacted by skin con
 ### Target Metrics
 ```markdown
 ┌────────────────────┬─────────────┐
-│ Metric            │ Target      │
+│ Metric             │ Target      │
 ├────────────────────┼─────────────┤
-│ Model Accuracy    │ >90%        │
-│ Inference Time    │ <2 seconds  │
-│ Model Size        │ <50MB       │
-│ False Positive    │ <5%         │
+│ Model Accuracy     │ >90%        │
+│ Inference Time     │ <2 seconds  │
+│ Model Size         │ <50MB       │
+│ False Positive     │ <5%         │
 └────────────────────┴─────────────┘
 ```
 
