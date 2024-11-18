@@ -1,7 +1,7 @@
 # CeKulit Machine Learning Documentation
 
 <div align="center">
-  <img src="/api/placeholder/800/400" alt="CeKulit Logo" />
+  <img src="https://github.com/CeKulit/.github/blob/master/profile/assets/app_logo.png" alt="CeKulit Logo" />
   <p><i>AI-Powered Skin Type Analysis and Care Recommendations</i></p>
 </div>
 
@@ -46,7 +46,7 @@ According to WHO data, over 900 million people globally are impacted by skin con
 
 ## System Architecture
 
-
+```mermaid
 flowchart TB
     A[Mobile Camera Input] --> B[Image Preprocessing]
     B --> C[TFLite Model]
@@ -64,7 +64,7 @@ flowchart TB
     E
     F
     end
-
+```
 
 ## Machine Learning Pipeline
 
