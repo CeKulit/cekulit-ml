@@ -170,6 +170,10 @@ python convert_to_tflite.py --model-path ./models/skin_classifier.h5
 
 ### Performance Metrics
 
+<p align="center">
+  <img src="https://github.com/CeKulit/cekulit-assets/blob/main/assets/ml/preview-1.png" alt="Chart Preview" width="200" />
+</p>
+
 ```tsx
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend } from 'recharts';
 
