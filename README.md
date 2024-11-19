@@ -298,8 +298,8 @@ def predict():
   - Documentation
 
 ### Project Advisors
-- [Advisor Name] - Nurrahman Hadi
-- [Advisor Name] - Candra Reza Prasetya Gannes
+- Nurrahman Hadi
+- Candra Reza Prasetya Gannes
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
