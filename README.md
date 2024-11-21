@@ -1,7 +1,7 @@
 # CeKulit Machine Learning Documentation
 
 <div align="center">
-  <img src="https://github.com/CeKulit/.github/blob/master/profile/assets/app_logo.png" alt="CeKulit Logo" />
+  <img src="https://github.com/CeKulit/cekulit-assets/blob/main/assets/app/app_logo_hd.png" alt="CeKulit Logo" width="300"/>
   <p><i>AI-Powered Skin Type Analysis and Care Recommendations</i></p>
 </div>
 
