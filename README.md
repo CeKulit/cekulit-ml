@@ -302,7 +302,7 @@ def predict():
 - Candra Reza Prasetya Gannes
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
 ## Acknowledgments
 - WHO for global skin health statistics
